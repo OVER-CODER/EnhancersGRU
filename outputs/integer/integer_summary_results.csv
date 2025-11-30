@@ -1,0 +1,2 @@
+,scenario1,scenario2
+integer,"{'accuracy': 0.5893536121673004, 'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'CSI': -1.0, 'G-mean': 0.0, 'MCC': 0.0, 'Kappa': 0.0, 'AUC': 0.6254480286738351}","{'accuracy': 0.486328125, 'precision': 0.162109375, 'recall': 0.3333333333333333, 'f1': 0.21813403416557162, 'CSI': None, 'G-mean': None, 'MCC': 0.0, 'Kappa': 0.0, 'AUC': 0.5770898976530806}"
